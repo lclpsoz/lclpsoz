@@ -1,4 +1,11 @@
-### Hi there 👋
+### Lucas Lopes de Souza
+
+***
+
+- 👨‍💻Training competitive programming!
+- 🌱 Learinig back-end with node.js.
+- 🙋‍♂️Computer Science Student @ [UFS](http://www.ufs.br/), expected graduation in 2022.
+- 👨‍🔬Data Science enthusiast.
 
 <!--
 **lclpsoz/lclpsoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
