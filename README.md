@@ -1,5 +1,5 @@
-# 👨‍💻 Lucas Lopes de Souza
-
+# 👨‍💻 Lucas Souza
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chicofariasneto/)](https://www.linkedin.com/in/lclpsoz/)
 - 👨‍💻Training competitive programming!
 - 🌱Learinig back-end in node.js.
 - 🙋‍♂️Computer Science Student @ [UFS](http://www.ufs.br/), expected graduation in 2022.
