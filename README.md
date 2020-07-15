@@ -1,7 +1,7 @@
 # 👨‍💻 Lucas Lopes de Souza
 
 - 👨‍💻Training competitive programming!
-- 🌱 Learinig back-end with node.js.
+- 🌱Learinig back-end in node.js.
 - 🙋‍♂️Computer Science Student @ [UFS](http://www.ufs.br/), expected graduation in 2022.
 - 👨‍🔬Data Science enthusiast.
 
