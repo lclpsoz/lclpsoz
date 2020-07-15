@@ -5,6 +5,17 @@
 - 🙋‍♂️Computer Science Student @ [UFS](http://www.ufs.br/), expected graduation in 2022.
 - 👨‍🔬Data Science enthusiast.
 
+- Online Judge Profiles:
+  - [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/profile/179305)
+  - [CODEFORCES](https://codeforces.com/profile/lclpsoz)
+  - [SPOJ](https://www.spoj.com/users/lclpsoz/)
+  - [SPOJ BR](https://br.spoj.com/users/lclpsoz/)
+  - [Online Judge](https://uhunt.onlinejudge.org/id/909204)
+  - [CS ACADEMY](https://csacademy.com/user/lclpsoz)
+  - [AtCoder](https://atcoder.jp/users/lclpsoz)
+  - [CodeChef](https://www.codechef.com/users/lclpsoz)
+  - [ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/uhunt/id/267759)
+
 <!--
 **lclpsoz/lclpsoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
