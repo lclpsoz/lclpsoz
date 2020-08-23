@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chicofariasneto/)](https://www.linkedin.com/in/lclpsoz/)
 - 👨‍💻Training competitive programming!
 - 🌱Learning back-end in node.js.
-- 🙋‍♂️Computer Science Student @ [UFS](http://www.ufs.br/), expected graduation in 2022.
+- 🙋‍♂️Computer Science Student @ [UFS](http://www.ufs.br/).
 - 👨‍🔬Data Science enthusiast.
 
 🌎 Online Judge Profiles 🌎
