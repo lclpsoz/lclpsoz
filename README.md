@@ -1,9 +1,11 @@
-# 👨‍💻 Lucas Souza
+# 👨‍💻 Lucas Lopes de Souza
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chicofariasneto/)](https://www.linkedin.com/in/lclpsoz/)
-- 👨‍💻Training competitive programming!
-- 🌱Learning back-end in node.js.
-- 🙋‍♂️Computer Science Student @ [UFS](http://www.ufs.br/).
-- 👨‍🔬Data Science enthusiast.
+
+Software Developer Intern at [Samsung R&D](https://research.samsung.com/srbr).
+
+- 💻 Software Engineering enthusiast.
+- 👨‍💻 Training competitive programming!
+- 🙋‍♂️ Computer Science Student at [UFS](http://www.ufs.br/).
 
 🌎 Online Judge Profiles 🌎
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/profile/179305)
