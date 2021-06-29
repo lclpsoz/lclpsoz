@@ -1,7 +1,7 @@
 # 👨‍💻 Lucas Lopes de Souza
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chicofariasneto/)](https://www.linkedin.com/in/lclpsoz/)
 
-Software Developer Intern at [Samsung R&D](https://research.samsung.com/srbr).
+Software Developer Intern at [Samsung R&D Institute Brazil (SRBR)](https://research.samsung.com/srbr).
 
 - 💻 Software Engineering enthusiast.
 - 👨‍💻 Training competitive programming!
