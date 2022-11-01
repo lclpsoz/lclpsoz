@@ -1,7 +1,7 @@
 # 👨‍💻 Lucas Lopes de Souza
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chicofariasneto/)](https://www.linkedin.com/in/lclpsoz/)
 
-Fullstack Engineer at [Sallve](https://www.sallve.com.br/).
+Full Stack Engineer at [Sallve](https://www.sallve.com.br/).
 
 - 💻 Software Engineering enthusiast.
 - 👨‍💻 Training competitive programming!
