@@ -4,7 +4,6 @@
 Full Stack Engineer at [Sallve](https://www.sallve.com.br/).
 
 - 💻 Software Engineering enthusiast.
-- 👨‍💻 Training competitive programming!
 - 🙋‍♂️ Computer Science Student at [UFS](http://www.ufs.br/).
 
 🌎 Online Judge Profiles 🌎
