@@ -5,7 +5,7 @@ Full Stack Engineer at [Sallve](https://www.sallve.com.br/).
 
 - 💻 Software Engineering enthusiast.
 - 🙋‍♂️ Computer Science Student at [UFS](http://www.ufs.br/).
-- Ex-competitive programmer
+- Retired competitive programmer
 
 🌎 Online Judge Profiles 🌎
 - [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt/profile/179305)
